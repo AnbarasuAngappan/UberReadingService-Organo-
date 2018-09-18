@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberReadingService", "UberReadingService\UberReadingService.csproj", "{1CBDF0CF-F887-4964-B3DB-8F11A34A45A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHosting", "SelfHosting\SelfHosting.csproj", "{AAF6079C-2DD9-4A62-8B27-F6EBB9DF826F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBDF0CF-F887-4964-B3DB-8F11A34A45A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBDF0CF-F887-4964-B3DB-8F11A34A45A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBDF0CF-F887-4964-B3DB-8F11A34A45A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBDF0CF-F887-4964-B3DB-8F11A34A45A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF6079C-2DD9-4A62-8B27-F6EBB9DF826F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF6079C-2DD9-4A62-8B27-F6EBB9DF826F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF6079C-2DD9-4A62-8B27-F6EBB9DF826F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF6079C-2DD9-4A62-8B27-F6EBB9DF826F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {021B909F-EEBE-42A0-91AA-BA22E39268FB}
+	EndGlobalSection
+EndGlobal
